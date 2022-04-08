@@ -1,5 +1,6 @@
 potato x 2
 tomato x 2
 lettuce x 2
-apple x 2
+apple x 3
 orange x 2
+banana x 2
